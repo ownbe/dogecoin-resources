@@ -86,9 +86,9 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://coinmaster.us
 - http://doge.coindation.com/index.php
 - http://doge.cryptoharvester.eu
+- http://dogecurrency.info
 
 ### P2Pool nodes (hash rate shared by all nodes)
-- http://dogecurrency.info:2250/
 - http://shitpost.asia/
 - http://doge.crypto49er.com/
 - http://doge-eu.crypto49er.com/
@@ -105,6 +105,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://pool.dogecoin.tw:9555/
 - http://to-the-moon.info:9555/
 - http://pool.dogepack.com/
+- http://dogecurrency.info:2250/
 - [P2Pool Crawler](http://p2pool.jir.dk/dogecoin/)
 - [Network statistics](http://doge.cryptoharvester.eu)
 
