@@ -143,6 +143,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DOGEdir](http://dogedir.com/)
 - [DogeBiz.net](http://dogebiz.net/)
 - [DogePages](http://www.dogepages.com/)
+- [DogeDoor] (http://www.dogedoor.net/)
 
 ## Faucets
 
