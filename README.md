@@ -91,6 +91,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://doge.coindation.com/index.php
 - http://doge.cryptoharvester.eu
 - http://dogecurrency.info
+- http://dogepool.servehttp.com
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://shitpost.asia/
