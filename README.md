@@ -202,3 +202,4 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeFetch: DOGE Display for Raspberry Pi](https://github.com/scriptingsoul/DogeFetch)
 - [Alternative Donation Button] (http://www.dogets.com/)
 - [Dogecoin Exchange Rate Indicator](https://github.com/Dirrot/python-indicator-dogecoin-cryptsy-exchange-rate)
+- [Doge meme editor/marketplace](http://www.iwannabeyourdoge.com/)
