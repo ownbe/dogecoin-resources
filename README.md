@@ -169,7 +169,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeCade](http://dogecade.com/)
 - [Dogespin](http://dogespin.l8.lv/)
 - [Doge Pound](http://dogepound.l8.lv/)
-- [Pocket Rockets Casino](https://pocketrocketscasino.com/)
 - [DOGE CoinGames](http://doge.coingam.es/)
 - [Doge Fights] (http://silabsoft.org/doge/dogefight.php/)
 - [CasinoQT Lotto](http://casinoqt.com/lotto/)
@@ -183,6 +182,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [DogeDice.me](http://dogedice.me/)
 - [Wow Such Ponzi](http://wowsuchponzi.com/)
 - [Doge Coin Lottery](http://www.reddit.com/r/DogeCoinLottery/)
+- [Doge-Lotto.com Lotto(6/49)/Keno](https://doge-lotto.com/)
 
 ## Development
 
