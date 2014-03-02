@@ -110,6 +110,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - http://pool.dogepack.com/
 - [P2Pool Crawler](http://p2pool.jir.dk/dogecoin/)
 - [Network statistics](http://doge.cryptoharvester.eu)
+- http://asguard-pool.eu:22550/
 
 ## Exchanges
 
