@@ -188,6 +188,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Development
 
 - [DogeCoin-JRPC](https://github.com/sinemetu1/DogeCoin-JRPC)
+- [DogeCoin Ruby Client (gem)](https://github.com/repp/dogecoin_client)
 - [node-dogecoin](https://github.com/countable/node-dogecoin)
 - [Dogecoin Code Snippets](https://github.com/brotchie/dogecoin-code-snippets)
 - [Dogecoin Testnet](https://github.com/Dirrot/dogecoin-testnet)
