@@ -187,6 +187,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge-Lotto.com Lotto(6/49)/Keno](https://doge-lotto.com/)
 - [Spinthatdoge - Wheel of fortune](http://www.spinthatdoge.com)
 - [Such BlackJack](http://suchblackjack.com/)
+- [Moonbets.com - Real events betting](http://moonbets.com/)
 
 ## Development
 
