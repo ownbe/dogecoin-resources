@@ -186,6 +186,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Doge Coin Lottery](http://www.reddit.com/r/DogeCoinLottery/)
 - [Doge-Lotto.com Lotto(6/49)/Keno](https://doge-lotto.com/)
 - [Spinthatdoge - Wheel of fortune](http://www.spinthatdoge.com)
+- [Such BlackJack](http://suchblackjack.com/)
 
 ## Development
 
